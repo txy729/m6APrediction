@@ -34,10 +34,9 @@ remotes::install_github("txy729/m6APrediction")
 ## Example Usage
 
 Here is a minimal example demonstrating the two prediction functions:
-
+``` r
 library(m6APrediction)
 
-``` r
 # Example RNA sequence
 seq <- "AUGCUACGUAUCG"
 
