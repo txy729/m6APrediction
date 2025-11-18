@@ -1,0 +1,12 @@
+Imports: randomForest
+Package: m6APrediction
+Title: Prediction of m6A Sites Using Random Forest
+Version: 1.0.0
+Authors@R: 
+    person("Xinyao", "Tan", , "Xinyao.Tan23@student.xjtlu.edu.cn", role = c("aut", "cre"))
+Description: Provides functions to predict m6A sites in RNA sequences using a trained random forest model. 
+             Includes DNA encoding, single-sample prediction, and multi-sample prediction utilities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
